@@ -2,7 +2,7 @@
 
 <!-- jQuery -->
 <script src="<c:url value='/scripts/js/jquery.js' />"></script>
-
+<script src="<c:url value='/scripts/js/angular.min.js' />"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="<c:url value='/scripts/js/bootstrap.min.js' />"></script>
 
